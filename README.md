@@ -1,0 +1,1 @@
+# Voice sprite audio files
